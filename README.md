@@ -9,7 +9,8 @@
 처음엔 Node.js로 백준 뿌시기를 시도했지만,  
 현재는 **Python**으로 전환하여 꾸준히 문제를 해결하고 있습니다.  
 
-📁 [기존 레포]([https://github.com/USERNAME/OLD_REPO_NAME](https://github.com/lucy-kim04/BaekJoonCode))
+📁 [기존 레포](https://github.com/lucy-kim04/BaekJoonCode)
+
 
 ## 📅 진행 현황
 
